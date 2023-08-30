@@ -5,5 +5,4 @@ This project is licensed under the terms of the MIT License.
 
 # GSP - Version française.
 GSP (Generate Safe Passwords (Générer des mots de passe sécurisés)) est un programme qui permet de générer des mots de passe chiffrer (en passant par deux algorithmes de chiffrement (sha256 et base64)) à partir d'un mot de passe maitre ainsi que d'un indentifiant et l'adresse du site web.
-Vous pouvez l'utiliser directement avec un navigateur web sur le site suivant : http://vehrz.pythonanywhere.com/generators/GSP
 Ce projet est concédé sous licence selon les termes de la licence MIT.
