@@ -1,6 +1,5 @@
 # GSP - English Version.
 GSP (Generate Safe Passwords) is a program that allows you to generate encrypted passwords (using two encryption algorithms (sha256 and base64)) from a master password as well as a login and the website address.
-You can use it directly with a web browser on the following site : http://vehrz.pythonanywhere.com/generators/GSP
 This project is licensed under the terms of the MIT License.
 
 # GSP - Version française.
